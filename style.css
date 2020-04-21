@@ -54,3 +54,20 @@
 .description h4{
     color: white;
 }
+
+.corpo{
+    background-color: #1e673f;
+    height: 700px;
+}
+
+.corpo h1{
+    font-size: 80px;
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.benefits {
+    margin-top: 50px;
+}
