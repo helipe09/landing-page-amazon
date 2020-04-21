@@ -1,0 +1,21 @@
+
+.navbar{
+    background-color:green;
+}
+
+.logo{
+    width: 300px;
+}
+
+.box {
+    background-color: lightblue;
+    height: 500px;
+}
+
+.teste{
+    height: 500px;
+}   
+
+.marca{
+    border: 1px solid black;
+}
