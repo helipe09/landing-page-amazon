@@ -1,21 +1,56 @@
 
-.navbar{
-    background-color:green;
-}
-
-.logo{
-    width: 300px;
-}
 
 .box {
     background-color: lightblue;
     height: 500px;
 }
 
-.teste{
-    height: 500px;
-}   
-
 .marca{
     border: 1px solid black;
+} 
+
+.logo{
+    width: 400px;
+}
+
+.header{
+    width: auto;
+    height: 800px;
+    background: url('./assets/header-img.jpg') no-repeat;
+    -webkit-background-origin: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.text{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+
+.text h1{
+    font-size: 80px;
+    color: white;
+    font-weight: bold;
+}
+
+.text h3 {
+    font-size: 70px;
+    color: white;
+    font-weight: normal;
+}
+
+.text h4 {
+    color: white;
+    font-size: 20px;
+}
+
+.description{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.description h4{
+    color: white;
 }
