@@ -25,7 +25,6 @@
 
 .text{
     margin-top: 20px;
-    margin-left: 40px;
 }
 
 
@@ -48,7 +47,6 @@
 
 .description{
     margin-top: 40px;
-    margin-left: 20px;
 }
 
 .description h4{
@@ -190,4 +188,16 @@ section.pricing {
     color: white;
     font-weight: bold;
     font-size: 30px;
+  }
+
+  .page-footer{
+    background-color:#1e673f ;
+  }
+
+  .footer-copyright{
+    color: white;
+  }
+
+  .footer-copyright a{
+    color: lightcoral;
   }
